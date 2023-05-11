@@ -33,6 +33,7 @@ function CountryDetails({countries}) {
                   <td>Borders</td>
                   <td>
                     <ul>
+                    {/*work on routes*/}
                       {/* <li><Link to="/${alpha3Code}">Andorra</Link></li> */}
                      
                     </ul>
